@@ -1,0 +1,7 @@
+*.idea/
+*target/
+*.DS_Store
+*logs
+*application.properties
+
+*node_modules/
